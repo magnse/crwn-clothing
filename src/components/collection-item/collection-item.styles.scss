@@ -20,6 +20,7 @@
     position: absolute;
     top: 255px;
     display: none;
+    border: none;
   }
 
   &:hover {
@@ -47,6 +48,7 @@
 
     .price {
       width: 10%;
+      margin-right: 5px;
     }
   }
 }
